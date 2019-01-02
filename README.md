@@ -10,4 +10,4 @@ The dataset is a CSV file that contains information extracted from (wavelet tran
 5. Class (Whether or not the banknote was authentic)
 
 # References
-Links to the Dataset: [UCI Banknote Authentication] (https://archive.ics.uci.edu/ml/datasets/banknote+authentication)
+Links to the Dataset: [UCI Banknote Authentication](https://archive.ics.uci.edu/ml/datasets/banknote+authentication)
